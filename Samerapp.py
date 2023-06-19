@@ -22,7 +22,7 @@ import base64
 
 #Impporting Data
 
-df = pd.read_csv('/Users/aminghobar/Desktop/SamerApp/Dementia data for MSBA 350E (1).csv')
+df = pd.read_csv('Dementia data for MSBA 350E (1).csv')
 
 
 
